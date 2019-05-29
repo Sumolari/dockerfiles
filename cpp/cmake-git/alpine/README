@@ -1,0 +1,1 @@
+Created from `rabbitmq:3.9.4-alpine` this image has build base, cmake and git, useful to build projects created with [TimothyHelton/cpp_project_template](https://github.com/TimothyHelton/cpp_project_template).
